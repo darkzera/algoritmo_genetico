@@ -1,0 +1,12 @@
+
+
+Chande de Mutação:	1
+Média Inserções:	357.0
+Média Mutações:	1978.0
+Média inserções com mutação:	0.0
+Média detecções de Clones:	23647.0
+Média de vezes que achou o Top 1:	7.0
+Média do Fitness do Top 1:	79256.33529160051
+Melhor top1 encontrado:	79256.33529160051
+Média tempo para achar o Top 1:	1.509559476E9
+Média tempo que o AG rodou:	14.0
