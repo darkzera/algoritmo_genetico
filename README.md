@@ -1,1 +1,1 @@
-algo_genetico
+referencias e material de estudo
